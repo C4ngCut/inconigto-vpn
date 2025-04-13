@@ -16,7 +16,7 @@ routes = [
 
 [[kv_namespaces]]
 binding = "SIREN"
-id = "7e5c0444a2d823c88c6755785f9fb7c5"
+id = "3f57b0ff360045c4bbad5c8963092a0e"
 [build]
 command = "cargo install -q worker-build && worker-build --release"
 
